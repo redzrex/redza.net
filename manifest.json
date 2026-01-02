@@ -1,0 +1,48 @@
+{
+  "short_name": "Redza.net",
+  "name": "Muhammad Redza Ruslan - IT Operations & Digital Transformation",
+  "description": "Personal portfolio website of Muhammad Redza Ruslan, Operations & IT Manager with 8+ years of experience in IT operations, digital transformation, cybersecurity, and web technologies.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00ff88",
+  "background_color": "#0a0f14",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["portfolio", "business", "technology"],
+  "shortcuts": [
+    {
+      "name": "Contact Me",
+      "short_name": "Contact",
+      "description": "Get in touch with Redza",
+      "url": "/#contact",
+      "icons": [{ "src": "logo192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "View Projects",
+      "short_name": "Projects",
+      "description": "View featured projects",
+      "url": "/#projects",
+      "icons": [{ "src": "logo192.png", "sizes": "192x192" }]
+    }
+  ]
+}
